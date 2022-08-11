@@ -1,0 +1,28 @@
+.center{
+    margin: auto; 
+    text-align: center;  
+} 
+
+.point{
+    list-style-position: inside;
+}
+
+.red {
+    color: red;
+}
+.purple {
+    color: purple;
+}
+
+.green {
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+
+.img-size {
+    width: 300px;
+    height: 300px;
+
+}
