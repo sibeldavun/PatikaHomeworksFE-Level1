@@ -1,0 +1,20 @@
+.bg-gray{
+    background-color: rgb(238,238,238);
+}
+
+
+.fl-left {
+    float: left;
+    margin-right: 1%;
+    height: 175px;
+    
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    
+
+}
+
